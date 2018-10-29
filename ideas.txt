@@ -1,0 +1,25 @@
+Prototype idea
+
+<------------------>
+#:physics based building game 
+
+single click building mechanic
+sudo realistic physics
+
+code from scratch 
+
+javascript library
+
+
+
+
+
+
+Node.js platform
+
+//javascript library
+http://brm.io/matter-js/demo/#stack
+
+
+
+<------------------>
