@@ -1,0 +1,11 @@
+html, body {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background: #333333;
+}
+p{
+color: white;
+font-size: 20pt;
+
+}
